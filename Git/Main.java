@@ -67,4 +67,7 @@ public class Main
         
     
     }
+    public void insert (){
+        //insert logic
+    }
 }
