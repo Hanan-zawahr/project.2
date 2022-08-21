@@ -61,4 +61,10 @@ public class Main
         //edit function
     
     }
+    public Automobile search(char[]keyword){
+        Automobile result = new Automobile();
+        return result;
+        
+    
+    }
 }
