@@ -52,4 +52,13 @@ public class Main
 
         }
     }
+    public void add(int enginCapacity){
+        Automobile auto = new Automobile();
+    
+    }
+    
+    public void edit (){
+        //edit function
+    
+    }
 }
